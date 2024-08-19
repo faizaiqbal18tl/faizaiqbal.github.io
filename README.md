@@ -52,7 +52,6 @@ website, web portals, and server. I also managed the QOBE software, ensuring its
 - Linear Algebra for Machine Learning and Data Science
 - Databases and SQL for Data Science with Python
 - Python for Everybody
-- For more details about my certifications, please click on the following [link](https://drive.google.com/drive/folders/18Nwnijli1AXx3NvtLJIbVPS0eTKf9tFP?usp=sharing). 
 
 ## Publications
 - Aslam, A. B., Iqbal, F., Talpur, U., Syed, Z. S., & Shaikh, F. K. (2024). Artificial intelligence-enabled 6G mobile systems. In A. Bourdena, C. Mavromoustakis, E. K. Markakis, G. Mastorakis, & E. Pallis (Eds.), Intelligent technologies for healthcare business applications (pp. 49-79). Springer. [(https://doi.org/10.1007/978-3-031-58527-2_3)](https://doi.org/10.1007/978-3-031-58527-2_3)
