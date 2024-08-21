@@ -1,5 +1,5 @@
 title: Faiza Iqbal
-avatar: /assets/Faiza-img.jpeg
+logo: /assets/Faiza-img.jpeg
 description: >
   I am a masters student of Data Science at Mehran University of Engineering nad Technology. I completed my Bachelors in Telecommunications Engineering. 
   I specialize in managing complex data and developing innovative solutions, such as a university website for optimizing data handling. My research 
@@ -13,5 +13,5 @@ description: >
 
   
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate.gemspec
 
